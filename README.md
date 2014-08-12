@@ -11,6 +11,8 @@ Instructions
 2. Open bookmarklet.txt and paste its content into the field that corresponds to the bookmark URL (it's typically called "web address", "location" or something similar)
 3. Try it out! Just visit some website and click the bookmark you just created!
 
+And don't worry; the bookmarklet is only active on the current page view, it won't stick around on reload.
+
 Compatibility
 -------------
 Should work fine with all Evergreen browsers.
